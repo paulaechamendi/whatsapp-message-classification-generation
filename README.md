@@ -39,8 +39,9 @@ El proyecto está organizado en notebooks secuenciales:
 ├── 5. Generative Models (LSTM & GRU).ipynb
 ├── 6. Generative Transformers.ipynb
 ```
-# SE OMITE LA SUBIDA DE LA CARPETA DATA ORIGINAL POR PRIVACIDAD, en caso de querer recrearlo podeis utilizar vuestro propio .txt  exportando un chat de WhatsApp (sin archivos multimedia)
+## SE OMITE LA SUBIDA DE LA CARPETA 'data/' POR PRIVACIDAD, en caso de querer recrearlo podeis utilizar vuestro propio .txt  exportando un chat de WhatsApp (sin archivos multimedia)
 
+## La carpeta `models/` no se incluye en este repositorio debido a limitaciones de tamaño de GitHub.
 
 ### Descripción de cada notebook:
 
